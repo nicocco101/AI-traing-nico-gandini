@@ -1,4 +1,4 @@
-# AI-traing-nico-gandini
+# AI-trading-nico-gandini
 Approfondiamo ciò che l'intelligenza artificiale può fare nel mondo del trading, esplorando funzionalità e vantaggi..
 
 ---
